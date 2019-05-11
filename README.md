@@ -1,6 +1,6 @@
 # KBSProject
 
- - ### Detailed plan including Data source, potential audience, plan, domain is contained in "DetailedPlan.pdf"
+ - ### Detailed plan including Data source, potential audience, plan, domain is contained in "Detailed_Plan.pdf"
  - ### Processing notebook with principle component analysis is included in "PCA_KBS.ipynb"
  - ### Citations with the abstract are contained in "Citations.pdf" 
  - ### Screenshots of dashboard is contained in "Dashboard.pdf"
